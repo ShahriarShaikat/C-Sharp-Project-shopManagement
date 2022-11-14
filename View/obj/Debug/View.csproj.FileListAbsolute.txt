@@ -1,0 +1,78 @@
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\bin\Debug\View.exe.config
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\bin\Debug\View.exe
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\bin\Debug\View.pdb
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.Properties.Resources.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.csproj.GenerateResource.cache
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.exe
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.pdb
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\bin\Debug\MetroFramework.Design.dll
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\bin\Debug\MetroFramework.dll
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\bin\Debug\MetroFramework.Fonts.dll
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.csproj.CopyComplete
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.Main.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.Home.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.csprojAssemblyReference.cache
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.AddOrder.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.Login.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.ManageOrder.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.Cart.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.profile.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.ViewOrderDetails.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.Dashboard.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.ManageUser.resources
+G:\AIUB\COURSES\C-Sharp\ShopManagementSystem\View\obj\Debug\View.AddUser.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\bin\Debug\View.exe.config
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\bin\Debug\View.exe
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\bin\Debug\View.pdb
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\bin\Debug\MetroFramework.Design.dll
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\bin\Debug\MetroFramework.dll
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\bin\Debug\MetroFramework.Fonts.dll
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.csprojAssemblyReference.cache
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.AddProduct.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.AddUser.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.Cart.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.Dashboard.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.Login.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.Main.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.ManageUser.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.profile.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.Properties.Resources.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.Home.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.AddOrder.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.ManageOrder.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.ViewOrderDetails.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.csproj.GenerateResource.cache
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.csproj.CopyComplete
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.exe
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.pdb
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.Product.resources
+G:\AIUB\IMPORTANT FILE\ShopManagementSystem\View\obj\Debug\View.DashboardOrder.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\bin\Debug\View.exe.config
+G:\AIUB\BackUp\ShopManagementSystem\View\bin\Debug\View.exe
+G:\AIUB\BackUp\ShopManagementSystem\View\bin\Debug\View.pdb
+G:\AIUB\BackUp\ShopManagementSystem\View\bin\Debug\MetroFramework.Design.dll
+G:\AIUB\BackUp\ShopManagementSystem\View\bin\Debug\MetroFramework.dll
+G:\AIUB\BackUp\ShopManagementSystem\View\bin\Debug\MetroFramework.Fonts.dll
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.csproj.AssemblyReference.cache
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.AddProduct.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.AddUser.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.Cart.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.Dashboard.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.DashboardOrder.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.Login.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.Main.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.ManageUser.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.Product.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.profile.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.Properties.Resources.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.Home.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.AddOrder.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.ManageOrder.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.ViewOrderDetails.resources
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.csproj.GenerateResource.cache
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.csproj.CopyComplete
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.exe
+G:\AIUB\BackUp\ShopManagementSystem\View\obj\Debug\View.pdb
